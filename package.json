@@ -1,0 +1,1 @@
+{"description":"The 3 AM Commit Message — one-line commit message entry for make.fun","engines":{"node":">=22"},"name":"makefun-3am-commit-message-v3","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
